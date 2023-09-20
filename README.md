@@ -1,1 +1,1 @@
-# hello-world
+I'm Princess Gonzales and I like to gain more knowledge and skills in areas such as programming, network administration, cybersecurity, database management, and more, to prepare for a career in the technology field.
